@@ -1,0 +1,27 @@
+ /* *{
+    margin: 0px;
+    padding: 0px;
+}  */
+.page{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:40px;
+    text-align: center;
+    border-style:solid;
+    border-color: black;
+    padding:70px;
+    margin:100px;
+    height:500px;
+    margin-bottom: 50px;
+}
+.box{
+    /* position: absolute; */
+    background-color: burlywood;
+}
+#icon i{
+    padding:20px ;
+  }
+  .heading{
+    text-align: center;
+    font-style: italic;
+  }
